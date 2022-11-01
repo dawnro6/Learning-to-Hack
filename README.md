@@ -3,4 +3,6 @@ My hacker journey - learning along the way
 
 ## Not sure yet
 
-# Lots moe
+## Lots more
+
+### just playing around for now
