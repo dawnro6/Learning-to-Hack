@@ -1,2 +1,6 @@
 # Learning-to-Hack
-my hacker journey - learning along the way
+My hacker journey - learning along the way
+
+## Not sure yet
+
+# Lots moe
