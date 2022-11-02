@@ -1,7 +1,7 @@
 ## LSB - Linux Standard Base-compliant
 LSB executables are used stored in executable and Linkable Format (ELF) 
 
-To extract data from these files, you can use various commands:
+### To extract data from these files, you can use various commands:
 
 strings - get hidden text within the binary/executable
 
